@@ -1,0 +1,3 @@
+"block","coherence","coherence_change","coherence_duration","coherent_direction_start","coherent_direction_change","coherent_direction_finish","response","error","rt","trial_type","trial_index","time_elapsed","internal_node_id"
+"practice","0.35","true","1000","118","-90","28","71","43","2533","angle-response","2","6537","0.0-1.0-1.0"
+"practice","0.35","false","1000","28","0","28","256","-132","2759","angle-response","4","10813","0.0-1.0-1.1"
